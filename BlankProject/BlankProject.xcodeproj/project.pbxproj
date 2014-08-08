@@ -390,6 +390,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Edmund Arpin (JGB9326WJB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BlankProject/BlankProject-Prefix.pch";
 				INFOPLIST_FILE = "BlankProject/BlankProject-Info.plist";
@@ -470,6 +471,7 @@
 				B9FB92171992943E00A0C734 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B9FB92181992943E00A0C734 /* Build configuration list for PBXNativeTarget "BlankProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +480,7 @@
 				B9FB921A1992943E00A0C734 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
