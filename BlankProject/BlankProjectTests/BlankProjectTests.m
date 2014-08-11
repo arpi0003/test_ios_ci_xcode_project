@@ -28,8 +28,8 @@
 
 - (void)testExample
 {
-    //XCTAssertTrue(true, @"Not really testing much yet");
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    XCTAssertTrue(true, @"Not really testing much yet");
+    //XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
 }
 
 @end
